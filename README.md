@@ -1,4 +1,4 @@
-# E-Commerce Back-End showcase
+# SQL Employee Tracker
 
 ## Table of Contents
 
